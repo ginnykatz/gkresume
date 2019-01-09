@@ -32,9 +32,8 @@ katzv@oreonstate.edu
 
 Projected Graduation: 2022
 
-Advisor:
+Advisor: Dr. Bo Zhao
 
-[Dr. Bo Zhao]: http://ceoas.oregonstate.edu/profile/zhao/
 
  Researching empathetically designed communication technology to boost human resilience 
 
