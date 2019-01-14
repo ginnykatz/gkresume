@@ -3,8 +3,6 @@ Geography P.h.D Student | Oregon State University
 
 Corvallis, Oregon
 
-
-
 katzv@oreonstate.edu
 
 [linkedin.com/in/virginiakatz](https://www.linkedin.com/in/virginiakatz)
@@ -26,26 +24,19 @@ katzv@oreonstate.edu
 
 # Academic Investment
 
-## Oregon State University (Corvallis, OR)
+### Oregon State University (Corvallis, OR)
 
-[PhD in Geography]: http://ceoas.oregonstate.edu/academics/geography/
+Doctoral Student | [Human Geography](http://ceoas.oregonstate.edu/academics/geography/)
 
-Projected Graduation: 2022
+> ###### Researching empathetically designed communication technology to boost human resilience
 
-Advisor: Dr. Bo Zhao
+> Projected Graduation: 2022
 
-
- Researching empathetically designed communication technology to boost human resilience 
-
+> Advisor: [Dr.Bo Zhao](http://ceoas.oregonstate.edu/profile/zhao/)
 
 
 
-
-
-
-
-
-- [MPH Global Health](https://health.oregonstate.edu/degrees/graduate/public-health/global-health)
+[Master of Public Health | Global Health](https://health.oregonstate.edu/degrees/graduate/public-health/global-health)
 
 **Graduated**: June 2018
 
@@ -71,7 +62,7 @@ College of Public Health and Human Sciences | Dr. Stephanie Grutzmacher
 Oct 2016 – Nov 2017 
 https://youtu.be/RvPl_UPFnt0
 
-![Virginia filming in Ethiopia](img/eth_vid.jpg)
+![Virginia filming in Ethiopia](img/bo_cam.jpg)
 
 **Internship**
 
@@ -85,7 +76,7 @@ Apr 2017 – Aug 2017
 \- After Action exercise and event reporting.
 -Participate in Disaster Preparedness, Response, and Recovery courses for professionals and community members.  
 
-## University of Texas at San Antonio (San Antonio, TX)
+### University of Texas at San Antonio (San Antonio, TX)
 
 [BS Public Health, concentration of Epidemiology and Disease Control](http://catalog.utsa.edu/undergraduate/liberalfinearts/sociology/#publichealth_edc_conc)
 
@@ -94,4 +85,16 @@ Graduation 2013
 Academic Achievement 
 
 - President's List 2013
+
 - Dean's List 2013
+
+  ​
+
+#### Licenses: 
+
+| Time Valid            | Title                                    |
+| --------------------- | ---------------------------------------- |
+| Sept 2018 - Sept 2020 | FAA part 107 Commercial Drone Pilot      |
+| 2017- 2020            | CITI Human Research Social/ Behavior Investigators and Key Personnel |
+
+ 
