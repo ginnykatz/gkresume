@@ -57,7 +57,7 @@ Sept 2016- Oct 2017
 Student Multimedia Services 
 Dec 2017- Present
 
-📚 `:books:`Graduate Research Assistant and Field Producer 
+📚 Graduate Research Assistant and Field Producer 
 College of Public Health and Human Sciences | Dr. Stephanie Grutzmacher
 Oct 2016 – Nov 2017 
 https://youtu.be/RvPl_UPFnt0
