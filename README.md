@@ -36,7 +36,7 @@ Doctoral Student | [Human Geography](http://ceoas.oregonstate.edu/academics/geog
 
 
 
-[Master of Public Health | Global Health](https://health.oregonstate.edu/degrees/graduate/public-health/global-health)
+Master of Public Health | Global Health
 
 **Graduated**: June 2018
 
@@ -48,18 +48,25 @@ Doctoral Student | [Human Geography](http://ceoas.oregonstate.edu/academics/geog
 
 **Extra Curricular:** 
 
-🌎Global Health Club President 
+🌎 Global Health Club President 
 Sept 2016- Oct 2017
 
 **Positions** 
 
-🎥Videographer and Media Consultant
+🎥 Videographer and Media Consultant
 Student Multimedia Services 
 Dec 2017- Present
 
 📚 Graduate Research Assistant and Field Producer 
+
+
 College of Public Health and Human Sciences | Dr. Stephanie Grutzmacher
+
+
 Oct 2016 – Nov 2017 
+
+
+
 https://youtu.be/RvPl_UPFnt0
 
 ![Virginia filming in Ethiopia](img/bo_cam.jpg)
