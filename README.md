@@ -29,7 +29,7 @@ katzv@oreonstate.edu
 
 
 
-# Academic Investment
+# Current Academic Investment
 
 ### 🏫Oregon State University (Corvallis, OR)
 
@@ -67,7 +67,7 @@ katzv@oreonstate.edu
 
 
 
-#### Hosted Events
+#### 🎉Hosted Events
 
 [Mapbox Monday](https://www.instagram.com/p/BtPWpKEg1w1/) February 4, 2019 ![](C:\Workspace\gkresume\img\Mapbox-Graphic.jpg)
 
@@ -77,7 +77,11 @@ katzv@oreonstate.edu
 > >
 > > Beaver Lunch and Learn with Mapbox
 > >
-> > Beaver Open Lap with Mapbix
+> > Beaver Open Lap with Mapbox
+
+
+
+# Previous Academic Investments
 
 
 
