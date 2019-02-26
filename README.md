@@ -1,4 +1,4 @@
-# Ginny Katz
+# Ginny Katz, MPH
 Geography P.h.D Student | Oregon State University 
 
 Corvallis, Oregon
@@ -9,42 +9,65 @@ katzv@oreonstate.edu
 
 # Summary
 
-> Bridging the health and resilience information gap through multimedia engagement.
+> Bridging the health and resilience information gap through geovisualization and  multimedia engagement.
 
 
 
-| Major Interests                        | Supporting Background / Skill sets       | Since |
-| -------------------------------------- | ---------------------------------------- | ----- |
-| Human and Ecological Resilience        | MPH Global Health, GIS, BS Public Health, Introduction to Primary Health Care certificate | 2009  |
-| Educational Media Creation             | Videography, Illustration, Graphic Design, Mapbox | 2016  |
-| App and Web Development                | Google Udacity Front End Web Developer Challenger Scholarship | 2018  |
-| Augmented and Virtual Reality Creation | Autodesk Maya 2018, UNITY 2017, 360degree video | 2018  |
+| Major Interests                                       | Supporting Background / Skill sets                           | Since |
+| ----------------------------------------------------- | :----------------------------------------------------------- | ----- |
+| Human and Ecological Resilience                       | MPH Global Health, GIS, BS Public Health, Introduction to Primary Health Care certificate | 2009  |
+| Educational Media Creation                            | Videography, Illustration, Graphic Design, Mapbox            | 2016  |
+| Front-end Web Development<br /><br />Geovisualization | Google Udacity Front End Web Developer Challenger Scholarship<br /><br />Joined the Oregon State Geoviz Lab | 2018  |
+| Augmented and Virtual Reality Creation                | Autodesk Maya 2018, UNITY 2017, 360degree video              | 2018  |
 
 
 
 # Academic Investment
 
-### Oregon State University (Corvallis, OR)
+### 🏫Oregon State University (Corvallis, OR)
 
-Doctoral Student | [Human Geography](http://ceoas.oregonstate.edu/academics/geography/)
+#### Doctoral Student | [Human Geography](http://ceoas.oregonstate.edu/academics/geography/)
 
-> ###### Researching empathetically designed communication technology to boost human resilience
+🎓**Projected Graduation: 2022**
 
-> Projected Graduation: 2022
+###### Research & Design: Pre-Crisis Communication Technology 
 
-> Advisor: [Dr.Bo Zhao](http://ceoas.oregonstate.edu/profile/zhao/)
+> Human Resilience Strategies
+>
+>  Empathetic Technology Design
+>
+> AI applications for climate change adaptation
+
+###### Advisor: [Dr.Bo Zhao](http://ceoas.oregonstate.edu/profile/zhao/)
+
+ [The Cartography and Geovisualization Lab](https://geoviz.ceoas.oregonstate.edu/) Graduate Research Assistant
+
+![Virginia filming ](img/bo_cam.jpg)
+
+###### Recent Project Partners: 
+
+ Clean Water Services, Hillsboro OR 
+Spring 2018 - Present
+
+> Data visualization for community engagement projects
+
+National Geographic 
+Fall 2018- Present
+
+> Global Refugee Atlas Project
 
 
 
-Master of Public Health | Global Health
+#### **Master of Public Health | [Global Health](https://health.oregonstate.edu/gh/mph)**
 
-**Graduated**: June 2018
+**🎓Graduated**: June 2018
 
 **Summary of study areas**
 
 - Disaster Management 
-- Resilience communication with media
+- Media in health and information communication
 - Displacement, Migration, and Immigration 
+- Climate Change Impacts on Global Health
 
 **Extra Curricular:** 
 
@@ -55,7 +78,7 @@ Sept 2016- Oct 2017
 
 🎥 Videographer and Media Consultant
 Student Multimedia Services 
-Dec 2017- Present
+December 2017- Present
 
 📚 Graduate Research Assistant and Field Producer 
 
@@ -63,13 +86,13 @@ Dec 2017- Present
 College of Public Health and Human Sciences | Dr. Stephanie Grutzmacher
 
 
-Oct 2016 – Nov 2017 
-
-
+October 2016 – Nov 2017 
 
 https://youtu.be/RvPl_UPFnt0
 
-![Virginia filming in Ethiopia](img/bo_cam.jpg)
+
+
+
 
 **Internship**
 
@@ -83,7 +106,7 @@ Apr 2017 – Aug 2017
 \- After Action exercise and event reporting.
 -Participate in Disaster Preparedness, Response, and Recovery courses for professionals and community members.  
 
-### University of Texas at San Antonio (San Antonio, TX)
+### 🏫 University of Texas at San Antonio (San Antonio, TX)
 
 [BS Public Health, concentration of Epidemiology and Disease Control](http://catalog.utsa.edu/undergraduate/liberalfinearts/sociology/#publichealth_edc_conc)
 
