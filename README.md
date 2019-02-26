@@ -1,5 +1,5 @@
 # Ginny Katz, MPH
-Geography P.h.D Student | Oregon State University 
+Geography PhD Student | Oregon State University 
 
 Corvallis, Oregon
 
