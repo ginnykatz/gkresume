@@ -5,7 +5,7 @@ Corvallis, Oregon
 
 katzv@oreonstate.edu
 
-[linkedin.com/in/virginiakatz](https://www.linkedin.com/in/virginiakatz)
+[linkedin.com/in/virginiakatz](https://www.linkedin.com/in/virginiakatz) 
 
 # Summary
 
@@ -69,7 +69,9 @@ katzv@oreonstate.edu
 
 #### 🎉Hosted Events
 
-[Mapbox Monday](https://www.instagram.com/p/BtPWpKEg1w1/) February 4, 2019 ![](C:\Workspace\gkresume\img\Mapbox-Graphic.jpg)
+##### [Mapbox Monday](https://www.instagram.com/p/BtPWpKEg1w1/) February 4, 2019 
+
+![](img\mapbox-graphic.png)
 
 > ###### Invited and hosted [Mapbox Support Engineer,  Rafa Gutierrez](https://www.mapbox.com/about/team/rafa-gutierrez/) for four free educational events for Oregon State University
 >
