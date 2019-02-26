@@ -20,6 +20,13 @@ katzv@oreonstate.edu
 | Front-end Web Development<br /><br />Geovisualization | Google Udacity Front End Web Developer Challenger Scholarship<br /><br />Joined the Oregon State Geoviz Lab | 2018  |
 | Augmented and Virtual Reality Creation                | Autodesk Maya 2018, UNITY 2017, 360degree video              | 2018  |
 
+#### Licenses: 
+
+| Time Valid            | Title                                                        |
+| --------------------- | ------------------------------------------------------------ |
+| Sept 2018 - Sept 2020 | FAA part 107 Commercial Drone Pilot                          |
+| 2017- 2020            | CITI Human Research Social/ Behavior Investigators and Key Personnel |
+
 
 
 # Academic Investment
@@ -30,7 +37,7 @@ katzv@oreonstate.edu
 
 🎓**Projected Graduation: 2022**
 
-###### Research & Design: Pre-Crisis Communication Technology 
+##### Research & Design: Pre-Crisis Communication Technology 
 
 > Human Resilience Strategies
 >
@@ -38,23 +45,39 @@ katzv@oreonstate.edu
 >
 > AI applications for climate change adaptation
 
-###### Advisor: [Dr.Bo Zhao](http://ceoas.oregonstate.edu/profile/zhao/)
+**Advisor**: [Dr.Bo Zhao](http://ceoas.oregonstate.edu/profile/zhao/)
 
- [The Cartography and Geovisualization Lab](https://geoviz.ceoas.oregonstate.edu/) Graduate Research Assistant
+######  [The Cartography and Geovisualization Lab](https://geoviz.ceoas.oregonstate.edu/) Graduate Research Assistant
 
 ![Virginia filming ](img/bo_cam.jpg)
 
-###### Recent Project Partners: 
+#### 🤝Current Funding Partners: 
 
- Clean Water Services, Hillsboro OR 
-Spring 2018 - Present
+#####  Clean Water Services, Hillsboro OR 
+
+###### Spring 2018 - Present
 
 > Data visualization for community engagement projects
 
-National Geographic 
-Fall 2018- Present
+##### National Geographic 
+
+###### Fall 2018- Present
 
 > Global Refugee Atlas Project
+
+
+
+#### Hosted Events
+
+[Mapbox Monday](https://www.instagram.com/p/BtPWpKEg1w1/) February 4, 2019 ![](C:\Workspace\gkresume\img\Mapbox-Graphic.jpg)
+
+> ###### Invited and hosted [Mapbox Support Engineer,  Rafa Gutierrez](https://www.mapbox.com/about/team/rafa-gutierrez/) for four free educational events for Oregon State University
+>
+> > Guest Lecture: Geo 471 Web Mapping and Geo 571 Advanced Web Mapping 
+> >
+> > Beaver Lunch and Learn with Mapbox
+> >
+> > Beaver Open Lap with Mapbix
 
 
 
@@ -62,19 +85,19 @@ Fall 2018- Present
 
 **🎓Graduated**: June 2018
 
-**Summary of study areas**
+** Summary of study areas**
 
 - Disaster Management 
 - Media in health and information communication
 - Displacement, Migration, and Immigration 
 - Climate Change Impacts on Global Health
 
-**Extra Curricular:** 
+##### **Extra Curricular:** 
 
 🌎 Global Health Club President 
 Sept 2016- Oct 2017
 
-**Positions** 
+##### **Positions** 
 
 🎥 Videographer and Media Consultant
 Student Multimedia Services 
@@ -94,37 +117,29 @@ https://youtu.be/RvPl_UPFnt0
 
 
 
-**Internship**
+**Internship** April 2017 – August 2017
 
-Emergency Management and Public Health Intern
-[Lincoln County Emergency Management](http://www.co.lincoln.or.us/emergencymanagement)  Newport, Oregon
-Apr 2017 – Aug 2017
+###### Emergency Management and Public Health Intern
 
-\- Partner in a multi-agency collaboration creating Emergency Preparedness Plans using GIS technology with Real-time Assessment and Planning Tool for Oregon (RAPTOR). 
-\- Partner with community volunteers to verify data and knowledge share. 
-\- Cascadia Preparedness community outreach strategies and educational opportunities. 
-\- After Action exercise and event reporting.
--Participate in Disaster Preparedness, Response, and Recovery courses for professionals and community members.  
+###### [Lincoln County Emergency Management](http://www.co.lincoln.or.us/emergencymanagement)  Newport, Oregon
+
+> 1) Partner in a multi-agency collaboration creating Emergency Preparedness Plans using GIS technology with Real-time Assessment and Planning Tool for Oregon (RAPTOR). 
+> 2) Partner with community volunteers to verify data and knowledge share. 
+> Cascadia Preparedness community outreach strategies and educational opportunities. 
+> 3) After Action exercise and event reporting.
+> 4) Participate in Disaster Preparedness, Response, and Recovery courses for professionals and community members.  
 
 ### 🏫 University of Texas at San Antonio (San Antonio, TX)
 
-[BS Public Health, concentration of Epidemiology and Disease Control](http://catalog.utsa.edu/undergraduate/liberalfinearts/sociology/#publichealth_edc_conc)
+#### [BS Public Health | Epidemiology and Disease Control](http://catalog.utsa.edu/undergraduate/liberalfinearts/sociology/#publichealth_edc_conc)
 
-Graduation 2013
+🎓 **Graduation** : 2013
 
-Academic Achievement 
+🏆Academic Achievements
 
 - President's List 2013
 
 - Dean's List 2013
 
-  ​
 
-#### Licenses: 
 
-| Time Valid            | Title                                    |
-| --------------------- | ---------------------------------------- |
-| Sept 2018 - Sept 2020 | FAA part 107 Commercial Drone Pilot      |
-| 2017- 2020            | CITI Human Research Social/ Behavior Investigators and Key Personnel |
-
- 
